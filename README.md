@@ -7,10 +7,10 @@ Possible use cases:
 
 ## Features
 
-- **User Authentication:** Users are required to login with their role ('poweruser' or 'defaultuser').
+- **User Authentication:** Users are required to login with their role ('poweruser' or 'defaultuser'). Other roles can be easily customized considering needs or requierements.
 - **File Selection:** Users can browse their system to select an Excel file containing data.
 - **Create Sample Data:** Users can create sample data from the selected Excel file by clicking the "Create Sample Data" button.
-- **Limited Runs:** Users with the 'defaultuser' role have a limited number of runs (3) for creating sample data.
+- **Limited Runs:** Users with the 'defaultuser' role have a limited number of runs (3) for creating sample data. This setting and aossciated rights can be easily adjusted and customized in the source code.
 
 ## Installation
 
