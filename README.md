@@ -24,4 +24,7 @@ Possible use cases:
 
 
 
+
+
+
 ![image](https://github.com/MaReiCodeCraftsman/easy-sample-creator-app/assets/157031106/cca29908-c064-452e-ba5e-1cf5fb8d8ca8)
